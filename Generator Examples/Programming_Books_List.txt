@@ -1,0 +1,104 @@
+The Art of Computer Programming by Donald E Knuth
+Mythical Man Month by Fred Brooks
+Code Complete: A Practical Handbook of Software Construction by Steve McConnell
+Coders at Work: Reflections on the Craft of Programming by Peter Seibel
+The Pragmatic Programmer: From Journeyman to Master by Hunt and Thomas
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert C Martin
+Programming Pearls by Jon Bently
+Code: The Hidden Language of Computer Hardware and Software by Charles Petzold
+Working Effectively with Legacy Code by Michael Feathers
+The Clean Coder: A Code of Conduct for Professional Programmers by Robert C Martin
+The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
+Writing Solid Code by Steve Maguire
+Software Craftsmanship: The New Imperative by Pete McBreen
+Understanding the Professional Programmer by Gerald M Weinberg
+Beautiful Code: Leading Programmers Explain How They Think by Oram and Olsen
+Structure and Interpretation of Computer Programs by Abelson, Sussman, and Sussman
+Refactoring to Patterns by Joshua Kerievsky
+The Relational Model for Database Management by EF Codd
+Introduction to Algorithms by Cormen, et al
+Compilers: Principles, Techniques, and Tools by Aho, et al
+Algorithms + Data Structures = Programs by Niklaus Wirth
+Algorithms by Sedgewick and Wayne
+Foundations of Security: What Every Programmer Needs to Know by Kern, et al
+How to Design Programs: An Introduction to Programming and Computing by Felleisen, et al
+Software Requirements by Wiegers and Beatty
+Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions by Hohpe and Woolf
+Patterns of Enterprise Application Architecture by Martin Fowler
+Peopleware: Productive Projects and Teams by DeMarco and Lister
+Software Estimation: Demystifying the Black Art by Steve McConnell
+Collaboration Explained: Facilitation Skills for Software Project Leaders by Jean Tabaka
+Rework by Freid and Hansson
+Leading Lean Software Development: Results Are Not the Point by Poppendieck and Poppendieck
+Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives by Rozanski and Woods
+Agile Software Development, Principles, Patterns, and Practices by Robert C Martin
+Practices of an Agile Developer by Subramaniam and Hunt
+Agile Estimating and Planning by Mike Cohn
+User Stories Applied: For Agile Software Development by Mike Cohn
+Agile Documentation: A Pattern Guide to Producing Lightweight Documents for Software Projects by Andreas Ruping
+Succeeding with Agile: Software Development Using Scrum by Mike Cohn
+Agile Testing: A Practical Guide for Testers and Agile Teams by Crispin and Gregory
+Agile!: The Good, the Hype and the Ugly by Bertrand Meyer
+Cracking the Coding Interview: 150 Programming Questions and Solutions by Gayle McDowell
+Soft Skills: The Software Developer's Life Manual by John Sonmez
+The Practice of Programming by Kernighan and Pike
+Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Hoover and Oshineye
+Writing Effective Use Cases by Alistair Cockburn
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug
+HTML and CSS: Design and Build Websites by Jon Duckett
+CSS: The Definitive Guide by Eric Meyer
+Beginning HTML5 and CSS3: The Web Evolved by Murphy, et al
+Design for Hackers: Reverse Engineering Beauty by David Kadavy
+HTML5 Pocket Reference: Quick, Comprehensive, Indispensable by Jennifer Robbins
+Even Faster Websites: Performance Best Practices for Web Developers by Steve Souders
+PHP Solutions: Dynamic Web Design Made Easy by David Powers
+Finally! A Python book by A. N. Other
+Beginning ASP.NET 3.5: In C# and VB by Imjar Spaanjaars
+Testing Computer Software by Kaner, et al
+Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems by David Agans
+Growing Object-Oriented Software, Guided by Tests by Freeman and Pryce
+Ship it! A Practical Guide to Successful Software Projects by Richardson and Gwaltney
+Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Humble and Farley
+Rapid Deployment: Taming Wild Software Schedules by Steve McConnell
+Release it! Design and Deploy Production-Ready Software by Michael Nygard
+Essential Scrum: A Practical Guide to the Most Popular Agile Process by Kenneth Rubin
+Zero Bugs and Program Faster by Kate Thompson
+The Art of Software Testing by Myers, et al
+Another Python book by A. N. Other
+Regular Expressions Cookbook by Goyvaerts and Levithan
+The Joy of PHP: A Beginner's Guide to Programming Interactive Web Applications with PHP and MySQL by Alan Forbes
+The C Programming Language by Kernighan and Ritchie
+Designing Web Usability by Jakob Nielsen
+Thinking in Java by Bruce Eckel
+Effective C++ by Scott Meyers
+The Art of Unix Programming by Eric Raymond
+HTML & XHTML: The Definitive Guide by Musciano and Kennedy
+Effective Java by Joshua Bloch
+Smalltalk Best Practice Patterns by Kent Beck
+XML in a Nutshell by Harold and Means
+High Performance MySQL: Optimization, Backups, and Replication by Schwartz, et al
+SQL in 10 Minutes, Says Teach Yourself by Ben Forta
+Seven Languages in Seven Weeks by Bruce Tate
+Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, et al
+Head First Design Patterns by Freeman, et al
+Refactoring: Improving the Design of Existing Code by Fowler, et al
+Domain-Driven Design: Taking Complexity in the Heart of Software by Eric Evans
+About Face: The Essentials of Interaction Design by Cooper, et al
+Object Design: Roles, Responsibilities, and Collaborations by Wirfs-Brock and McKean
+There really should be more Python books in this list by A. N. Other
+The Non-Designer's Design Book by Robin Williams
+User Interface Design for Programmers by Avram Spolsky
+Object Thinking (Developer Reference) by David West
+Godel, Escher, Bach by Douglas Hofstadter
+Inside the Machine: An Illustrated Guide to Microprocessors and Computer Architecture by Jon Stokes
+Extreme Programming Explained: Embrace Change by Beck and Andes
+The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity by Alan Cooper
+Envisioning Information by Edward Tufte
+The Best Software Writing I by Avram Spolsky
+The Visual Display of Quantitative Information by Edward Tufte
+Computer Systems: A Programmer's Perspective by Bryant and O'Hallaran
+The Timeless Way of Building by Christopher Alexander
+Facts and Fallacies of Software Engineering by Robert Glass
+The Design of Everyday Things: Revised and Expanded Edition by Don Norman
+The Annotated Turing by Charles Petzold
